@@ -1,3 +1,3 @@
-# React Native News
+## React Native News
 
-### A news mobile application.
+A simple cross platform (iOS and Android) React Native news app. 

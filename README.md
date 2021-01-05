@@ -1,1 +1,3 @@
-# react-native-news
+# React Native News
+
+### A news mobile application.
